@@ -540,6 +540,34 @@ customization:
   }
 
 
+/* timetable */
+#timetable {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+#timetable td, #timetable th {
+    /* border: 1px solid #ddd; */
+    text-align: center;
+    padding: 8px;
+    color: rgb(24, 2, 2);
+  }
+  
+  #timetable tr:nth-child(even){background-color: #f2f2f2;}
+  #timetable tr:nth-child(odd){background-color: #faee68e3;}
+  
+  #timetable tr:hover {background-color: #ddd;}
+  
+  #timetable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    font-size: 1.5em;
+    /* background-color: #f5d44e5b; */
+    background-color: #faee68e3;
+  }
 /* download */
 #download {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
