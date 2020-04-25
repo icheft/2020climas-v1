@@ -1,11 +1,11 @@
 # Site settings
 title: CLIMAS
-email: your-email@domain.com
-url: https://example.github.io
+email: brian.lxchen@gmail.com
+url: https://icheft.github.io/CLIMAS
 description: "資管中文大氣聯合宿營 Come join us!"
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: CLIMAS
+# keywords: "your keywords, separated by commas"
+# skills: "Web Developer - Graphic Artist - User Experience Designer"
 
 # Google webmaster tools
 google_verify:
