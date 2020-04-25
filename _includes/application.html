@@ -1,0 +1,154 @@
+ <!-- About Section -->
+ <section class="success" id="application">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>&lt;報名參加<span class="slash">/</span>&gt;</h2>
+                <hr>
+            </div>
+        </div>
+        <div class="row">
+            <h3 align="center" style="color: #3e3a3a">報名資訊</h3>
+					<hr>
+					<h4>報名資格：全體台大社會、社工及資管系大一新生</h4> 
+					<h4>活動地點：桃園龍潭渴望園區 (325桃園市龍潭區渴望路185號)</h4>
+					<h4>活動日期：2019・9/6(五) - 9/8(日)</h4>
+					<h4>報名截止日期：2019・8/30(五)</h4>
+					<h4>營隊費用：新台幣3900元整</h4>
+					<h4>匯款資訊：國泰世華 (代碼013) 帳號：030506140966</h4>
+					<h4>匯款完成後，請記住帳號後5碼並填寫下方報名表單以完成報名，並且填妥<a href="docs/新生家長同意書.pdf" target="_blank">新生家長同意書</a>於活動開始時帶至現場繳交</h4>
+					<h4>若有需要提前離營，請一併填寫<a href="docs/提前離營切結書.pdf" target="_blank">提前離營切結書</a>且於活動開始時帶至現場繳交</h4>
+                    <hr>
+        </div>
+        <div class="row">
+					<h3 align="center" style="color: #3e3a3a">報名表單</h3>
+                    <hr />
+                    <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
+                    <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+                    <form name="sentMessage" id="contactForm" novalidate>
+                            <div class="col-sm-4">
+                            <div class="row control-group no-gutters">
+                                <div class="form-group col-xs-12  controls">
+                                    <label for="name">姓名</label>
+                                    <input type="text" class="form-control" placeholder="姓名" id="name" required data-validation-required-message="Please enter your name.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="row control-group no-gutters">
+                                <div class="form-group col-xs-12  controls">
+                                    <label for="email">電子郵件</label>
+							        <input name="email" class="form-control" id="email" type="email" placeholder="電子郵件" required="required">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="row control-group no-gutters">
+                                <div class="form-group col-xs-12  controls">
+                                    <label for="phone">手機號碼</label>
+							        <input name="phone" class="form-control" id="phone" type="tel" placeholder="手機號碼" required="required">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                        </div>
+                            <div class="col-sm-4">
+                                <div class="row control-group">
+                                    <div class="form-group col-xs-12  controls">
+                                        <label for="ident">身分證字號</label>
+                                        <input name="ident" id="ident" class="form-control" type="text" placeholder="身分證字號" required="required">
+                                    </div>
+                                </div>
+                                <div class="row control-group">
+                                    <div class="form-group col-xs-12  controls">
+                                        <label for="contact_person">緊急聯絡人</label>
+							            <input name="contact_person" class="form-control" id="contact_person" type="text" placeholder="緊急聯絡人"
+								required="required">
+                                        <p class="help-block text-danger"></p>
+                                    </div>
+                                </div>
+                                <div class="row control-group">
+                                    <div class="form-group col-xs-12 controls">
+                                        <label for="contact_number">緊急聯絡人電話</label>
+							            <input name="contact_number" class="form-control" id="contact_number" type="tel" placeholder="緊急聯絡人電話"
+								required="required">
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="row control-group">
+                                    <div class="row control-group">
+                                        <div class="form-group col-xs-12 controls">
+                                            <label for="birthday">生日</label>
+                                            <input name="birthday" class="form-control" id="birthday" type="text" placeholder="西元年 / 月 / 日"
+                                        required="required">
+                                        </div>
+                                    </div>
+                                    <div class="row control-group">
+                                        <div class="form-group col-xs-12  controls">
+                                            <label for="bank_acct">匯款帳號末五碼</label>
+                                            <input name="bank_acct" class="form-control" id="bank_acct" type="text" placeholder="匯款帳號末五碼">
+                                        </div>
+                                    </div>
+                                    <div class="row control-group">
+                                    <div class="form-group col-xs-12  controls">
+                                        <label for="transfer_date">匯款日期(非必填，可先報名再匯款)</label>
+							            <input name="transfer_date" class="form-control" id="transfer_date" type="text" placeholder="月 / 日 , 時 : 分">
+                                    </div>
+                                </div>
+                                </div>
+
+                            </div>
+                            <br>
+                            <br>
+                            <div class="col-sm-4">
+                            <div class="field" id="dept">
+                                <label for="dept">系所</label>
+                                <input type="radio" id="IM" value="IM" name="dept" required="required">
+                                <label for="IM">資訊管理學系</label>
+                                <input type="radio" id="Soc" value="Soc" name="dept" required="required">
+                                <label for="Soc">社會學系</label>
+                                <input type="radio" id="SW" value="SW" name="dept" required="required">
+                                <label for="SW">社會工作學系</label>
+                            </div><br>
+                            </div>
+                            <br>
+                            <br>
+                            <div class="col-sm-4">
+                                <label for="shirt_size">營服尺寸</label>
+                                <div class="select-wrapper">
+                                    <select name="shirt_size" id="shirt_size">
+                                        <option value="">- 請選擇尺寸 -</option>
+                                        <option value="XS">XS</option>
+                                        <option value="S">S</option>
+                                        <option value="M">M</option>
+                                        <option value="L">L</option>
+                                        <option value="XL">XL</option>
+                                        <option value="2XL">2XL</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+							<label for="food_intendency">飲食習慣</label>
+							<input type="radio" id="non-veg" value="non-veg" name="food_intendency" required="required">
+							<label for="non-veg">葷</label>
+							<input type="radio" id="veg" value="veg" name="food_intendency" required="required">
+							<label for="veg">素</label>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 controls">
+                                <label for="message">其他訊息</label>
+                                <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="想說的話"></textarea>
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                            <div id="success"></div>
+                            <div class="row">
+                                <div class="form-group col-lg-4">
+                                    <br>
+                                    <button type="submit" class="btn btn-warning btn-lg">Send</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+
+    </div>
+</section>
