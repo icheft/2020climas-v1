@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'caesar';
-    src: url('fonts/caesar.ttf');
+    src: url('/fonts/caesar.ttf');
     font-weight: normal;
     font-style: normal;
 }
