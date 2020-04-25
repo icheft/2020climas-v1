@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: 'caesar';
-    src: url('{{ site.github.url }}/fonts/caesar.ttf');
+    src: url('{{ site.github.url }}/assets/fonts/caesar.ttf');
     font-weight: normal;
     font-style: normal;
 }
