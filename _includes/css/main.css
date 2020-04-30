@@ -30,7 +30,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #5f1818;
+    color: #d7e06d;
 }
 
 h1,
@@ -85,7 +85,7 @@ hr.star-primary:after {
 }
 
 .slash {
-    color: #e74c3c;
+    color: #2b1917;
 }
 
 .img-centered {
@@ -494,7 +494,7 @@ customization:
 }
 
 .scroll-down a {
-    color: #b32c2c;
+    color: #d8df7e;
 }
 
 .scroll-down a:hover {
@@ -509,8 +509,8 @@ customization:
     width: 24px;
     height: 24px;
     margin-left: -12px;
-    border-left: 1px solid #b32c2c;
-    border-bottom: 1px solid #b32c2c;
+    border-left: 1px solid #d8df7e;
+    border-bottom: 1px solid #d8df7e;
     -webkit-transform: rotate(-45deg);
     transform: rotate(-45deg);
     -webkit-animation: sdb04 2s infinite;
@@ -550,6 +550,10 @@ customization:
   
 }
 
+#timetable a{
+    color: rgb(57, 27, 27);
+}
+
 #timetable td, #timetable th {
     /* border: 1px solid #ddd; */
     text-align: center;
@@ -576,6 +580,10 @@ customization:
   border-collapse: collapse;
   width: 100%;
   
+}
+
+#download a{
+    color: #452e2e;
 }
 
 #download td, #download th {
