@@ -7,13 +7,9 @@ This is a fork from [jeromelachaud/freelancer-theme](https://github.com/jeromela
 
 You can visit my version of the site [here](https://icheft.github.io/climas/). Feel free do make any changes and make pull requests to make this website better. 
 
-## TL;DR (also shown on the site)
-如果有什麼建議或是改善辦法，請直接提出。另外，你也可以：
-+ <a href="https://github.com/icheft/climas"><img alt="GitHub stars" src="https://img.shields.io/github/stars/icheft/climas?label=Star%20this%20repo&style=social"></a> or
-+ <a href="https://github.com/icheft/climas"><img alt="GitHub forks" src="https://img.shields.io/github/forks/icheft/climas?label=Fork%20this%20repo&style=social"></a>
+## TL;DR
+The master branch is served as a theme that can be easily modified and used by anyone. 
 
-
-然後這邊的內容都是去年的，我沒有要幫忙想的意思哈哈哈 💁🏾‍♂️
 
 
 
