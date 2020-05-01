@@ -11,7 +11,14 @@ You can visit my version of the site [here](https://icheft.github.io/climas/). F
 The gh-pages branch deploys current theme, and it can be easily modified and used by anyone. 
 If you need the standard build of this website/theme, please visit the `master` branch.
 
+## Feature Lists
+### To-Do
++ [ ] contact form
++ [ ] mini interactive game
 
+### Done
++ [x] Payment through 3rd party platforms
++ [x] Instagram feeds
 
 
 ## Modified README
