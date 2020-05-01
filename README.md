@@ -12,9 +12,20 @@ You can visit my version of the site [here](https://icheft.github.io/climas/). F
 + <a href="https://github.com/icheft/climas"><img alt="GitHub stars" src="https://img.shields.io/github/stars/icheft/climas?label=Star%20this%20repo&style=social"></a> or
 + <a href="https://github.com/icheft/climas"><img alt="GitHub forks" src="https://img.shields.io/github/forks/icheft/climas?label=Fork%20this%20repo&style=social"></a>
 
-
 然後這邊的內容都是去年的，我沒有要幫忙想的意思哈哈哈 💁🏾‍♂️
 
+## Feature Lists
+### To-Do
++ [ ] contact form
++ [ ] mini interactive game
+
+### Done
++ [x] Payment through 3rd party platforms
++ [x] Instagram feeds
+
+## Resources
++ [Formspree](https://formspree.io)
++ [Simple Backends: Four ways to implement a “Contact Us” form on a static website](https://medium.com/datafire-io/simple-backends-four-ways-to-implement-a-contact-us-form-on-a-static-website-10fc430984a4)
 
 ## Modified README
 Climas Jekyll theme (built on Freeelancer Jekyll theme, a Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)). [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
