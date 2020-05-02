@@ -26,10 +26,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ffd747 #80B3FF	
-  primary-rgb: "252,223,119" #"128,179,255"
-  secondary: 4a252b #FD6E8A 2c3e50
-  secondary-dark: 361b1f #A2122F  233140
+  primary: B2AFB6 #93B4A1
+  # primary-rgb: "252,223,119" #"128,179,255"
+  secondary: 1D5797 #B2AFB6
+  secondary-dark: 93B4A1 #1D5797
 
 # Footer settings
 footer:
@@ -40,14 +40,13 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #  - title: stack-overflow
-    # url: http://stackoverflow.com/questions/tagged/jekyll
+# url: http://stackoverflow.com/questions/tagged/jekyll
 social:
   - title: facebook
     url: https://zh-tw.facebook.com/NTUIMSA
   - title: envelope
     url: mailto:imsa@ntu.im
 
-    
 
 # Postal address (add as many lines as necessary)
 address:
@@ -55,7 +54,7 @@ address:
   - line: Taiwan
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

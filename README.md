@@ -19,6 +19,7 @@ You can visit my version of the site [here](https://icheft.github.io/climas/). F
 ### To-Do
 + [ ] contact form
 + [ ] mini interactive game
++ [ ] colors to try: `#93B4A1`, `#B2AFB6`, `#1D5797`
 
 ### Done
 
