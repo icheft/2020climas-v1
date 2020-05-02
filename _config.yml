@@ -2,7 +2,11 @@
 title: CLIMAS
 email: brian.lxchen@gmail.com
 url: https://icheft.github.io/climas
+<<<<<<< HEAD
 description: "資管中文大氣聯合宿營 COME JOIN US!"
+=======
+description: "資管中文大氣聯合宿營 | Come join us"
+>>>>>>> theme/climas
 meta_author: CLIMAS
 # keywords: "your keywords, separated by commas"
 # skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -43,15 +47,10 @@ footer:
 # url: http://stackoverflow.com/questions/tagged/jekyll
 social:
   - title: facebook
-    url: https://www.facebook.com/brian.lxchen
-  - title: github
-    url: http://github.com/icheft
-  - title: instagram
-    url: https://instagram.com/brian_lxchen
+    url: https://zh-tw.facebook.com/NTUIMSA
   - title: envelope
-    url: mailto:brian.lxchen@gmail.com
-  - title: linkedin
-    url: https://www.linkedin.com/in/brianlhchen/
+    url: mailto:imsa@ntu.im
+
 
 # Postal address (add as many lines as necessary)
 address:
