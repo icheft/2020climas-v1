@@ -8,7 +8,7 @@ This is a fork from [jeromelachaud/freelancer-theme](https://github.com/jeromela
 You can visit my version of the site [here](https://icheft.github.io/climas/). Feel free do make any changes and make pull requests to make this website better. 
 
 ## TL;DR (also shown on the site)
-The gh-pages branch deploys current theme, and it can be easily modified and used by anyone. 
+The gh-pages branch deploys current theme (`theme/watermelonman`), and it can be easily modified and used by anyone. 
 If you need the standard build of this website/theme, please visit the `master` branch.
 
 ## Feature Lists
