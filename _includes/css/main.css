@@ -10,7 +10,7 @@
     font-weight: normal;
     font-style: normal;
 }
- 
+
 
 body {
     overflow-x: hidden;
@@ -18,6 +18,7 @@ body {
 
 p {
     font-size: 20px;
+    font-family: 微軟正黑體;
 }
 
 p.small {
@@ -40,7 +41,8 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 微軟正黑體;
     font-weight: 700;
 }
 
@@ -111,11 +113,13 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    /* font-family: "caesar", Helvetica,Arial,sans-serif; */
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "caesar", Helvetica,Arial,sans-serif;
+    /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
     /* font-family: "Lucida Console", Monaco, monospace; */
-    font-size: 3.4em;
+    font-size: 5em;
     font-weight: 700;
+    letter-spacing: 1px;
+    color: #5f1818;
 }
 
 header .intro-text .skills {
@@ -174,6 +178,7 @@ header .intro-text .skills {
 }
 
 .navbar .navbar-nav {
+    font-family: 微軟正黑體;
     letter-spacing: 1px;
 }
 
@@ -339,6 +344,7 @@ section.success {
 
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eee;
+    font-family: 微軟正黑體;
 }
 
 footer {
@@ -486,6 +492,8 @@ customization:
 
 
 .scroll-down {
+  font-family: 微軟正黑體;
+  font-weight: 600;
   padding-top: 6em;
   margin-bottom: -2em;
   position: relative;
@@ -544,7 +552,8 @@ customization:
 
 /* timetable */
 #timetable {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  /*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+  font-family: 微軟正黑體;
   border-collapse: collapse;
   width: 100%;
   
@@ -572,7 +581,8 @@ customization:
   }
 /* download */
 #download {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  /*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+  font-family: 微軟正黑體;
   border-collapse: collapse;
   width: 100%;
   
