@@ -34,10 +34,22 @@ a.active {
 }
 
 h1,
-h2,
-h3,
-h4,
-h5,
+h2{
+    font-family: 微軟正黑體;
+    font-weight: bold; 
+
+}
+h3{
+    font-weight: bold;
+    font-family: 微軟正黑體;
+}
+h4{
+    font-family: 微軟正黑體;
+}
+h5{
+    font-family: 微軟正黑體;
+}
+}
 h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -80,7 +92,7 @@ hr.star-primary {
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.secondary }};f
     background-color: #fff;
 }
 
@@ -112,10 +124,13 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     /* font-family: "caesar", Helvetica,Arial,sans-serif; */
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'caesar';
+    src: url('{{ site.github.url }}/assets/fonts/caesar.ttf');
     /* font-family: "Lucida Console", Monaco, monospace; */
-    font-size: 3.4em;
+    font-size: 4em;
     font-weight: 700;
+    letter-spacing: 5px;
 }
 
 header .intro-text .skills {
@@ -147,10 +162,13 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
+        font-family: 'caesar';
+        src: url('{{ site.github.url }}/assets/fonts/caesar.ttf');  
         font-size: 2em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        letter-spacing: 3px;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -166,6 +184,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     /* font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif; */
     font-family: 'caesar', Arial, Helvetica, sans-serif;
+    font-family: 微軟正黑體;
     font-weight: 700;
 }
 
@@ -191,11 +210,13 @@ section {
 }
 
 section h2 {
+    font-family: 微軟正黑體;
     margin: 0;
     font-size: 3em;
 }
 
 section.success {
+    font-family: 微軟正黑體;
     color: #fff;
     background: #{{ site.color.primary }};
 }
@@ -494,6 +515,8 @@ customization:
 }
 
 .scroll-down a {
+    font-family: 微軟正黑體;
+    font-weight: bold;
     color: #d8df7e;
 }
 
@@ -544,7 +567,8 @@ customization:
 
 /* timetable */
 #timetable {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  /*    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
+  font-family: 微軟正黑體;
   border-collapse: collapse;
   width: 100%;
   
@@ -576,7 +600,8 @@ customization:
   }
 /* download */
 #download {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family: 微軟正黑體;
+  /*font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;*/
   border-collapse: collapse;
   width: 100%;
   

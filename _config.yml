@@ -1,5 +1,5 @@
 # Site settings
-title: Watermelon Man
+title: CLIMAS
 email: brian.lxchen@gmail.com
 url: https://icheft.github.io/climas
 description: "嗨！你正在看西瓜人配色的 CLIMAS 網站！"
@@ -43,15 +43,9 @@ footer:
 # url: http://stackoverflow.com/questions/tagged/jekyll
 social:
   - title: facebook
-    url: https://www.facebook.com/brian.lxchen
-  - title: github
-    url: http://github.com/icheft
-  - title: instagram
-    url: https://instagram.com/brian_lxchen
+    url: https://zh-tw.facebook.com/NTUIMSA
   - title: envelope
-    url: mailto:brian.lxchen@gmail.com
-  - title: linkedin
-    url: https://www.linkedin.com/in/brianlhchen/
+    url: mailto:imsa@ntu.im
 
 # Postal address (add as many lines as necessary)
 address:
