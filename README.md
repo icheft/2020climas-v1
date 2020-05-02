@@ -15,10 +15,9 @@ If you need the standard build of this website/theme, please visit the `master` 
 ### To-Do
 + [ ] contact form
 + [ ] mini interactive game
++ [ ] colors to try: `#93B4A1`, `#B2AFB6`, `#1D5797`
 
 ### Done
-+ [x] Payment through 3rd party platforms
-+ [x] Instagram feeds
 
 ## Resources
 + [Formspree](https://formspree.io)
@@ -56,7 +55,3 @@ View this jekyll theme in action [here](https://icheft.github.io/climas/)
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
-
-
-## 西瓜人
-![Image](https://i.imgur.com/SB6CyeZ.png)
