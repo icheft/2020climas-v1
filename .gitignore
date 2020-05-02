@@ -1,5 +1,5 @@
 .DS_Store
-
+.bundle
 _site
 .sass-cache
 .jekyll-cache
