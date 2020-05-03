@@ -26,10 +26,11 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: B2AFB6 #93B4A1
+  primary: f5cb42 #B2AFB6 #93B4A1
   # primary-rgb: "252,223,119" #"128,179,255"
   secondary: 1D5797 #B2AFB6
-  secondary-dark: 93B4A1 #1D5797
+  secondary-dark: 0b3052 #1D5797
+  link: ba1841
 
 # Footer settings
 footer:
